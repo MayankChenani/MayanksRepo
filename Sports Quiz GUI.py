@@ -1022,4 +1022,4 @@ btn=tk.Button(frame,
               command=new_window1
 )
 btn.place(x=500,y=600)
-
+frame.mainloop()
